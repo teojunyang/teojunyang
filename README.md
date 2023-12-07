@@ -1,8 +1,5 @@
-
-![qdzec7l46a651](https://github.com/teojunyang/teojunyang/assets/150211242/05080cfc-0820-4d1e-aa46-e55ba53598aa)
-
 <h3 align="center">Hi, I'm Junyang</h3>
-<h3 align="center">Coding...</h3>
+![qdzec7l46a651](https://github.com/teojunyang/teojunyang/assets/150211242/05080cfc-0820-4d1e-aa46-e55ba53598aa)
 
 <p float="left">
   <img src="https://github.com/teojunyang/teojunyang/assets/150211242/91e214ee-512c-4b91-b13a-e303d6999162" width="400" align="right">
