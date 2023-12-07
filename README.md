@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Junyang</h3>
 <h3 align="center">Coding...</h3>
-<iframe src="https://giphy.com/embed/PkaixexYMgz4Y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oktotally-transparent-art-pixel-PkaixexYMgz4Y">via GIPHY</a></p>
+![giphy](https://github.com/teojunyang/teojunyang/assets/150211242/27098639-1dec-4c01-8d1f-b351ee1d9dcc)
 
 - 🧠 I’m currently learning **JavaScript**
 - ✉️  You can contact me at **teojyang311@gmail.com**
