@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Junyang</h3>
 <h3 align="center">Coding...</h3>
 
-![giphy](https://github.com/teojunyang/teojunyang/assets/150211242/91e214ee-512c-4b91-b13a-e303d6999162)
+<h3 align="right" >![giphy](https://github.com/teojunyang/teojunyang/assets/150211242/91e214ee-512c-4b91-b13a-e303d6999162)
 
 - 🧠 I’m currently learning **JavaScript**
 - ✉️  You can contact me at **teojyang311@gmail.com**
