@@ -2,6 +2,8 @@
 <h3 align="center">Coding...</h3>
 
 <p align="right">
+- 🧠 I’m currently learning **JavaScript**
+- ✉️  You can contact me at **teojyang311@gmail.com**
   <img src="https://github.com/teojunyang/teojunyang/assets/150211242/91e214ee-512c-4b91-b13a-e303d6999162" alt="giphy">
 </p>
 
