@@ -3,7 +3,6 @@
 <img align= "right" alt= "Coding" width="400" scr="https://www.pinterest.com/pin/415879346851626137/"
 
 - 🧠 I’m currently learning **JavaScript**
-
 - ✉️  You can contact me at **teojyang311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
