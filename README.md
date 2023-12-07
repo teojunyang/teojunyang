@@ -2,7 +2,7 @@
 <h3 align="center">Coding...</h3>
 
 <p float="left">
-  <img src="https://github.com/teojunyang/teojunyang/assets/150211242/91e214ee-512c-4b91-b13a-e303d6999162" width="100" align="right">
+  <img src="https://github.com/teojunyang/teojunyang/assets/150211242/91e214ee-512c-4b91-b13a-e303d6999162" width="400" align="right">
   🧠 I’m currently learning <strong>JavaScript</strong><br>
   ✉️  You can contact me at <strong>teojyang311@gmail.com</strong><br>
   <br>
