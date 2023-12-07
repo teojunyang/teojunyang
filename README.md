@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Junyang</h3>
 <h3 align="center">Coding...</h3>
-<img align= "right" alt= "Coding" width="400" scr="[https://www.pinterest.com/pin/415879346851626137/](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXY1c3Z3a2Z2YTVtOWg3azZhYWtwYnRncm1hOGhvaDIzaG9zc3BjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkaixexYMgz4Y/giphy.gif)"
+<iframe src="https://giphy.com/embed/PkaixexYMgz4Y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oktotally-transparent-art-pixel-PkaixexYMgz4Y">via GIPHY</a></p>
 
 - 🧠 I’m currently learning **JavaScript**
 - ✉️  You can contact me at **teojyang311@gmail.com**
