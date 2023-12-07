@@ -1,16 +1,11 @@
 <h3 align="center">Hi, I'm Junyang</h3>
 <h3 align="center">Coding...</h3>
 
-<div style="display: flex; justify-content: start; align-items: center;">
-  <div style="margin-right: 10px;">
-    <p>🧠 I’m currently learning <strong>JavaScript</strong></p>
-    <p>✉️ You can contact me at <strong>teojyang311@gmail.com</strong></p>
-  </div>
-  <div>
-    <img src="https://github.com/teojunyang/teojunyang/assets/150211242/91e214ee-512c-4b91-b13a-e303d6999162" alt="giphy" style="width: 100px; height: auto;">
-  </div>
+🧠 I’m currently learning **JavaScript**<br>
+✉️  You can contact me at **teojyang311@gmail.com**<br>
+<div align="right">
+  <img src="https://github.com/teojunyang/teojunyang/assets/150211242/91e214ee-512c-4b91-b13a-e303d6999162" alt="giphy">
 </div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
