@@ -1,5 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-https://www.pinterest.com/pin/415879346851626137/
+<h3 align="center">Hi, I'm Junyang</h3>
+<h3 align="center">Coding...</h3>
+<img align= "right" alt= "Coding" width="400" scr="https://www.pinterest.com/pin/415879346851626137/"
 
 - 🧠 I’m currently learning **JavaScript**
 
